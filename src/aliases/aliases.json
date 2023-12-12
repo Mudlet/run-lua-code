@@ -1,0 +1,6 @@
+[
+  {
+    "name": "run lua code",
+    "regex": "^lua (.*)$"
+  }
+]
