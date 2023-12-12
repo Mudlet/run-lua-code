@@ -1,5 +1,5 @@
 {
-  "package": "MDK",
+  "package": "run-lua-code",
   "version": "4.0",
   "author": "Mudlet",
   "title": "Run Lua code directly from the command line."
